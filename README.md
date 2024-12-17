@@ -29,5 +29,5 @@ Ensure you have Python installed, then run:
 `pip install -r requirements.txt`
 
 4. **Run the Jupyter Notebook**
-`jupyter notebook`
+`python -m notebook`
 Open the notebook file Mall customers.ipynb in the Jupyter interface and run all the cells.
