@@ -5,7 +5,7 @@ This machine learning project implements unsupervised learning to cluster mall c
 # Features
 
 - The project is complete. It encompasses all typical tasks of a machine learning pipeline; data exploration, data preprocessing, model building, evaluation and analysis.
-- There are also markdowns between codes for further explanaition.
+- There are also markdowns between codes for further explanation.
 
 # Dataset
 
