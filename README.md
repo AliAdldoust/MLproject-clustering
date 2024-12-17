@@ -1,4 +1,3 @@
-<<<<<<< HEAD
 # Machine Learning Project
 
 This machine learning project implements unsupervised learning to cluster mall customers.
@@ -32,11 +31,3 @@ Ensure you have Python installed, then run:
 4. **Run the Jupyter Notebook**
 `jupyter notebook`
 Open the notebook file Mall customers.ipynb in the Jupyter interface and run all the cells.
-
-
-
-
-=======
-# MLproject-clustering
-This machine learning project implements unsupervised learning to cluster mall customers.
->>>>>>> c3004e5edeec26450b71bd2f3d03aa35ac9e7be5
